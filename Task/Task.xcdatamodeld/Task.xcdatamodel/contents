@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="18G103" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="GuidesEntity" representedClassName="GuidesEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="endDate" attributeType="String"/>
+        <attribute name="icon" attributeType="String"/>
+        <attribute name="loginRequired" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="name" attributeType="String"/>
+        <attribute name="objType" attributeType="String"/>
+        <attribute name="startDate" optional="YES" attributeType="String"/>
+        <attribute name="url" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="GuidesEntity" positionX="-63" positionY="-18" width="128" height="148"/>
+    </elements>
+</model>
